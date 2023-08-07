@@ -19,4 +19,4 @@ browser = webdriver.Chrome(options=chrome_options)
 
 browser.get('http://naver.com')
 time.sleep(1)
-browser.close() 
+browser.close()
